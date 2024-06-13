@@ -1,2 +1,1 @@
-# Rock-Paper-Scissor
-jaseem
+# Rock_Paper_Scissor
